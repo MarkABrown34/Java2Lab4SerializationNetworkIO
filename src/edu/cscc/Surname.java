@@ -1,6 +1,8 @@
 package edu.cscc;
 
-public class Surname {
+import java.io.Serializable;
+
+public class Surname implements Serializable {
     public String surname;
     public int rank;
     public double frequency;
@@ -33,11 +35,5 @@ public class Surname {
 
     public void setFrequency(double frequency) {
         this.frequency = frequency;
-    }
-
-    public void printRecord() {
-        System.out.print("Surname: " + this.surname);
-        System.out.print(" frequency: " + this.frequency + "%");
-        System.out.println(" rank: " + this.rank);
     }
 }
