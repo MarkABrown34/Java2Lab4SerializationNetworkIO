@@ -52,9 +52,9 @@ public class CensusData {
 
     public HashMap<String, Surname> readDataFile() {
         try {
-            ObjectInputStream ois = new ObjectInputStream(new FileInputStream("./surname.dat"));
-            censusData = (HashMap<String, Surname>) ois.readObject();
-            ois.close();
+            ObjectInputStream objectInputStream = new ObjectInputStream(new FileInputStream("./surname.dat"));
+            censusData = (HashMap<String, Surname>) objectInputStream.readObject();
+            objectInputStream.close();
         } catch (IOException ioe) {
             ioe.printStackTrace();
         } catch (ClassNotFoundException c) {

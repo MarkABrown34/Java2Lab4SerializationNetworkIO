@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="923b3c92-31b6-433b-986a-6d8da2876c6f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/cscc/CensusData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/cscc/CensusData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/cscc/Lookup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/cscc/Lookup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/cscc/Surname.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/cscc/Surname.java" afterDir="false" />
-    </list>
+    <list default="true" id="923b3c92-31b6-433b-986a-6d8da2876c6f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,9 +14,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/cscc/Surname.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="41" selection-end-column="7" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
                 <element signature="e#336#337#0" expanded="true" />
                 <element signature="e#374#375#0" expanded="true" />
                 <element signature="e#402#403#0" expanded="true" />
@@ -41,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/cscc/Lookup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+            <state relative-caret-position="75">
+              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,11 +49,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/cscc/CensusData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="85" column="11" lean-forward="true" selection-start-line="85" selection-start-column="11" selection-end-line="97" selection-end-column="7" />
+            <state relative-caret-position="168">
+              <caret line="48" column="34" lean-forward="true" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1574790833658" expanded="true" signature="3073:3429" ph="..." />
               </folding>
             </state>
           </provider>
@@ -143,7 +138,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574792632761" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574793135087" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Downloads/TinyWS" />
   </component>
   <component name="RunDashboard">
@@ -193,7 +188,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-1" width="1922" height="967" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16400427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -210,7 +204,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32467532" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32360098" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -237,9 +231,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/cscc/Surname.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="41" selection-end-column="7" />
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
             <element signature="e#336#337#0" expanded="true" />
             <element signature="e#374#375#0" expanded="true" />
             <element signature="e#402#403#0" expanded="true" />
@@ -256,8 +252,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/cscc/Lookup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        <state relative-caret-position="75">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -266,11 +262,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/cscc/CensusData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="85" column="11" lean-forward="true" selection-start-line="85" selection-start-column="11" selection-end-line="97" selection-end-column="7" />
+        <state relative-caret-position="168">
+          <caret line="48" column="34" lean-forward="true" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1574790833658" expanded="true" signature="3073:3429" ph="..." />
           </folding>
         </state>
       </provider>
